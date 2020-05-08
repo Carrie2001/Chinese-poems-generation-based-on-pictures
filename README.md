@@ -5,6 +5,7 @@ You also need to put the following linked files in the same directory(还需把�
 https://disk.pku.edu.cn:443/link/04FD3AA91645117E8477FE32D15FE31C
 有效期限：2024-06-14 23:59
 
+Thanks for zizhizhou and chinch17 's cooperation. (both good teammates)
 
 # We will introduce the use of each PY
 cifar100vgg.py is used to process image files and get related labels. The label will then correspond to key words to generate poems.
