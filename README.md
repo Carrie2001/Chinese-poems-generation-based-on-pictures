@@ -18,3 +18,5 @@ rnn_model.py contains a s2s model based on attention mechanism
 train.py contains train, generate and api with image
 
 word2vec.py trains the word_vector based on gensim
+
+# Examples
