@@ -20,3 +20,4 @@ train.py contains train, generate and api with image
 word2vec.py trains the word_vector based on gensim
 
 # Examples
+![image](https://github.com/Gold-Sea/Chinese-poems-generation-based-on-pictures/blob/master/readme_pictures/fs.jpg)
