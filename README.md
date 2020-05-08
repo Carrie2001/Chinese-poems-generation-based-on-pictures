@@ -2,8 +2,8 @@
 Generation of five character ancient poetry based on given pictures(基于图片生成五言古诗)
 
 You also need to put the following linked files in the same directory(还需把如下链接的文件放入同一个目录下)：
-https://disk.pku.edu.cn:443/link/04FD3AA91645117E8477FE32D15FE31C
-有效期限：2024-06-14 23:59
+https://disk.pku.edu.cn:443/link/A54728C8E322E8F1E3F59235F44BDF4A
+有效期限：2024-09-11 23:59
 
 # Thanks for zizhizhou and chinch17 's cooperation. (both good teammates)
 
