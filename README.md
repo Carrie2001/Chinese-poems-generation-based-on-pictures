@@ -1,7 +1,9 @@
 # Chinese-poems-generation-based-on-pictures
 Generation of five character ancient poetry based on given pictures(基于图片生成五言古诗)
 
-
+You also need to put the following linked files in the same directory(还需把如下链接的文件放入同一个目录下)：
+https://disk.pku.edu.cn:443/link/04FD3AA91645117E8477FE32D15FE31C
+有效期限：2024-06-14 23:59
 
 
 # We will introduce the use of each PY
@@ -21,3 +23,5 @@ word2vec.py trains the word_vector based on gensim
 
 # Examples
 ![image](https://github.com/Gold-Sea/Chinese-poems-generation-based-on-pictures/blob/master/readme_pictures/fs.jpg)
+老墨天平色，秋风正峻津。
+亭家人不尽，花落影斜喧。
